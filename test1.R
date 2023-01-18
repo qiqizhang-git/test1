@@ -9,3 +9,5 @@ a = optimise(f,interval = c(0,10))$min
 
 polyroot(c(-65*130, -650, 0, 26, 2))
 use_github(protocol = "https", auth_token = Sys.getenv("GITHUB_PAT"))
+
+test push
